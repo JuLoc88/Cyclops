@@ -36,6 +36,6 @@ end
 
 puts "#{ip} scan is complete!"
 
-puts "Thank you for using Elite Solutions - Cyclops. Please be patient while Cyclops is shutting down..."
+puts "Thank you for using Elite Solutions | Cyclops. Please be patient while Cyclops is shutting down..."
 
 sleep 3
